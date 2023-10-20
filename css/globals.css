@@ -1,0 +1,55 @@
+
+/* ************** FONTS ************** */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* GLOBAL */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* ************** COLORS ************** */
+    /* Colors backgrounds */
+    --header-background: rgb(121, 21, 91);
+    --icon-cart-background: rgb(219, 0, 91);
+    --shop-background:rgb(194, 51, 115, 0.8);
+    --cart-background: rgb(246, 99, 92);
+    --footer-background: rgb(121, 21, 91);
+    --summary-background: rgb(246, 99, 92);
+    /* Colors buttons */
+    --add-button: rgb(121, 21, 91);
+    --buy-button:  rgba(10, 189, 135, 0.98);
+    --clear-button: rgb(219, 0, 91);
+    --remove-button: rgb(219, 0, 91);
+    --disabled-add-button: rgb(255, 186, 134);
+    /* Colors fonts */
+    --header-title-color: rgb(0, 0, 0);
+    --icon-cart-font-color: rgb(255, 255, 255);
+    --shop-font-color: rgb(35, 32, 32);
+    --cart-font-color: rgb(35, 32, 32);
+    --button-font-color: rgb(255, 255, 255);
+    --footer-font-color: rgb(255, 255, 255);
+    --disabled-add-button-font: rgb(121, 21, 91);
+    --subtotal-font-color:  rgb(245, 238, 200);
+    --subtotal-link-color: rgb(121, 21, 91);
+    /* Colors elements */
+    --cart-separator: rgb(121, 21, 91);
+    --cart-img-border: rgb(121, 21, 91);
+    --shop-select: rgb(121, 21, 91);
+    --summary-select: rgb(121, 21, 91);
+
+    /* ************** FONTS SIZES ************** */
+    --font-size-xxl: 60px;
+    --font-size-l: 40px;
+    --font-size-m: 25px;
+    --font-size-s: 18px;
+    --font-size-xl: 45px;
+    --font-size-xs: 15px;
+    
+    font-family: 'Inter', sans-serif;
+}
+
+
+
