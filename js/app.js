@@ -46,6 +46,7 @@ function app() {
         });
     }
 
+    //Function that passes the article to the cart
     function handleAddToCart(e) {
 
         const itemObj = {
